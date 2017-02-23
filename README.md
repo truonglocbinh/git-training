@@ -1,2 +1,2 @@
 # git-training
-A git traning 
+A git traning for square
